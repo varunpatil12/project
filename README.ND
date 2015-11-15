@@ -1,0 +1,26 @@
+PROJECT TOPIC: LIBRARY MANAGEMENT
+NAME - VARUN PATIL
+MIS - 111403030
+This application allows user to access library through user login.it asks the user to create the account and is flexible
+providing facilities like :1. edit profile
+			   2. delete account.
+			   3. modify account.
+			   4. login time.
+	/*this system is password protected.*/	
+user can search the books.. 
+admin has access to 1. insert/ make entry of books.
+		    2. delete/ remove the books.
+		    3. view books in sorted order (alphabetically).
+		    4. issue books.issue section provides facilities like issue books, search issued books, view issued books,
+ 			date of issue, date of return.....
+		    5. search books  by name or Id....
+		    6. View books
+		    7. save data into file
+	*before closing application user has to press q to save and quit...
+Advantages:
+ 1. this code uses tree as a data structure which reduces your search time ..
+ 2. there are different trees for search by author and for search by name.....
+   		
+
+			 	
+						  		
